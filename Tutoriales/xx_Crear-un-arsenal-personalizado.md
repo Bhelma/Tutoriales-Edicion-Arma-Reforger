@@ -66,7 +66,7 @@ Añado este pequeño paso, si lo que necesitamos es simplemente añadir un item 
 
 Dejo una imagen y explico paso a paso:
 
-![Imagen paso extra](https://i.imgur.com/vYyWM6x_d.jpeg)
+![Imagen paso extra](https://i.imgur.com/vYyWM6x.jpeg)
 
 Lo primero que debemos de elegir es el tipo de multilist (tipo de objeto) que quieres añadir. A esto me refiero si es un arma, donde iria en __weapon__, explosivos que iria en __explosives__, una vez que tengamos claro en que multilist tenemos que añadir nuestro nuevo item, debemos pinchar en la flacha azul e dicha multilist para que nos abra todos los items que tenemos dentro, como hicimos en otros pasos anteriores.
 En la imagen anterior os pongo un ejemplo de una carga explosiva modificada para que tenga mas carga explosiva y pese mas, asi que abriremos el miltilist de _explosives_.
@@ -80,5 +80,5 @@ Ten en cuenta que este valor es el que costara cuando lo saquen del arsenal.
 
 Con estos datos ya tendrias el item añadido correctamente y aparecera perfectamente en el arsenal de la mision, para que los jugadores puedan seleccionarlo sin problemas.
 
-Facil!!??, pues cualquier duda o correccion puedes indicarmelo [aqui](/Bhelma/Tutoriales-Edicion-Arma-Reforger/issues)
+Facil!!??, pues cualquier duda o correccion puedes indicarmelo [aqui](https://github.com/Bhelma/Tutoriales-Edicion-Arma-Reforger/issues)
 
