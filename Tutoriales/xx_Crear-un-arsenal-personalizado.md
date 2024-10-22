@@ -29,7 +29,7 @@ Habiendo creado el nuevo archivo en tu mundo, ahora debemos de localizarlo y abr
 ___nombredetumision/Config/EntityCatalog/Facciondeseada___
 Y nos aparecera el nuevo archivo en la parte de abajo, como se puede ver en la siguiente imagen.
 
-![Imagen Paso 2(https://i.imgur.com/8sOtRx4.jpeg)
+![Imagen Paso 2](https://i.imgur.com/8sOtRx4.jpeg)
 
 Pinchamos dos veces con el boton izquierdo del raton sobre el nombre del archivo, y en el centro del editor se nos abrira su contenido, como podemos observar en la iiguiente imagen.
 
