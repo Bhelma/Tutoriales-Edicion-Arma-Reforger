@@ -58,3 +58,27 @@ Siguiendo el paso anterior, copiar todos los multilist de los mods ue necesites 
 
 Toma nota, que si copias muchos items en una mismo arsenal, cuando estes enel juego y varias personas intenten entrar a los arsenales, esto puede producir lag en el servidor, al tener que cargar todos los item, y segun el tipo de ordenador del jugador puede llegar a quedarse congelado por que su PC es bastante justito.
 Asi que tenlo en cuenta cuando vayas a meter todos los mods del workshop.
+
+
+### Extra
+
+Añado este pequeño paso, si lo que necesitamos es simplemente añadir un item o que has creado o esta en un mod en particular y no quieres añadir todos los items.
+
+Dejo una imagen y explico paso a paso:
+
+![Imagen paso extra](https://i.imgur.com/vYyWM6x_d.jpeg)
+
+Lo primero que debemos de elegir es el tipo de multilist (tipo de objeto) que quieres añadir. A esto me refiero si es un arma, donde iria en __weapon__, explosivos que iria en __explosives__, una vez que tengamos claro en que multilist tenemos que añadir nuestro nuevo item, debemos pinchar en la flacha azul e dicha multilist para que nos abra todos los items que tenemos dentro, como hicimos en otros pasos anteriores.
+En la imagen anterior os pongo un ejemplo de una carga explosiva modificada para que tenga mas carga explosiva y pese mas, asi que abriremos el miltilist de _explosives_.
+
+1.- Pulsamos en __+__ para añadir un item.
+2.- Ahora pinchamos en los dos puntos marcado con la flecha __1__ y buscamos donde tenemos el item, asi que de la ventana que te saldra en el centro deberas navegar hasta la ubicacion del item. Cuando lo tengas seleccionado, pinchamos en __OK__.
+3.- Ahora en el apartado __Arsenal Data__ le damos a __+__ indicado con la flecha __2__ y y del desplegable seleccionamos ___SCR_ArsenalItem___ y se nos abriran nuevos parametros para añadir el item nuevo.
+4.- En __Type Item__ seleccionamos el tipo de item al que va a pertenecer, en este ejemplo ___explosives___.
+5.- Y solo nos faltaria indicar el coste que tendria cogerlo del arsenal, eso se hace desde el parametro __Supply Cost__, en el ejemplo hemos puesto que costara 10 de suministros.
+Ten en cuenta que este valor es el que costara cuando lo saquen del arsenal.
+
+Con estos datos ya tendrias el item añadido correctamente y aparecera perfectamente en el arsenal de la mision, para que los jugadores puedan seleccionarlo sin problemas.
+
+Facil!!??, pues cualquier duda o correccion puedes indicarmelo [aqui](/Bhelma/Tutoriales-Edicion-Arma-Reforger/issues)
+
