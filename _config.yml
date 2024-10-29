@@ -8,4 +8,7 @@ title: [Edicion Bhelma]
 description: [Tutoriales de Edicion en Arma Reforger]
 
 show_downloads: ["true"]
-google_analytics: [Your Google Analytics tracking ID]
+
+github:
+  zip_url: http://example.com/download.zip
+  inicio: https://bhelma.github.io/Tutoriales-Edicion-Arma-Reforger/
