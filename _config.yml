@@ -13,4 +13,4 @@ show_downloads: ["true"]
 github:
   zip_url: http://example.com/download.zip
   inicio: https://bhelma.github.io/Tutoriales-Edicion-Arma-Reforger/
-  tutoriales: ./Tutoriales.md
+  tutoriales: https://bhelma.github.io/Tutoriales-Edicion-Arma-Reforger/Tutoriales.html
