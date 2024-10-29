@@ -1,10 +1,33 @@
-# Tutoriales de Edición de Misiones para Arma Reforger
+---
+layout: default
+title: Inicio
+---
 
-¡Bienvenido a la colección de mini tutoriales sobre cómo editar misiones en Arma Reforger! Aquí encontrarás guías paso a paso con imágenes que te ayudarán a dominar las herramientas de edición.
+# Bienvenido a Edicion Bhelma
 
-## Índice
-- [Crear un Arsenal Personalizado](./Tutoriales/xx_Crear-un-arsenal-personalizado.md)
+¡Gracias por visitar el sitio de mi proyecto! Aquí podrás encontrar toda la información sobre lo que estamos desarrollando, las novedades, y cómo puedes contribuir.
 
-## Cómo Contribuir
-Si tienes sugerencias, comentarios o errores que reportar, puedes abrir un [issue aquí](https://github.com/Bhelma/Tutoriales-Edicion-Arma-Reforger/issues).
+## ¿Qué es este proyecto?
+
+Este proyecto está enfocado en **crear tutoriales de edición de misiones para Arma Reforger**. Nuestra misión es hacer que sea fácil para cualquier persona aprender a personalizar y editar misiones, añadiendo contenido emocionante y adaptable a las necesidades de cada jugador.
+
+## Características
+
+- **Documentación completa**: Encuentra guías paso a paso y ejemplos prácticos.
+- **Actualizaciones frecuentes**: Mantente informado sobre las últimas novedades y mejoras.
+- **Soporte y Comunidad**: Recibe ayuda y comparte tus ideas con otros usuarios.
+
+## Cómo Empezar
+
+1. Visita nuestra sección de [Tutoriales](./Tutoriales.md) para encontrar guías detalladas.
+2. Si encuentras un problema o tienes una sugerencia, no dudes en visitar la sección [Issue](https://github.com/Bhelma/Tutoriales-Edicion-Arma-Reforger/issues).
+3. ¡Explora y diviértete! Estamos aquí para ayudarte a aprender y mejorar.
+
+## Contáctanos
+
+Para cualquier duda o comentario, puedes encontrarnos en Discordd.
+
+---
+
+© 2024 Edicion Bhelma. Todos los derechos reservados.
 
