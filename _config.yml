@@ -5,4 +5,6 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 
 title: [Edicion Bhelma]
-description: [Tutoriales de Edicion en ArmaReforger]
+description: [Tutoriales de Edicion en Arma Reforger]
+
+show_downloads: ["true"]
