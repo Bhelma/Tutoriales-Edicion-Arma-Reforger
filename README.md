@@ -1,8 +1,3 @@
----
-layout: default
-title: Inicio
----
-
 # Bienvenido a Edicion Bhelma
 
 ¡Gracias por visitar el sitio de mi proyecto! Aquí podrás encontrar toda la información sobre lo que estamos desarrollando, las novedades, y cómo puedes contribuir.
