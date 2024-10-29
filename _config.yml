@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: "Mi Proyecto"
+description: "Documentación y tutoriales"
+baseurl: ""  # Deja vacío si estás usando el repositorio principal.
+url: "https://bhelma.github.io/Tutoriales-Edicion-Arma-Reforger/"  # Cambia "tusitio" por tu nombre de usuario.
