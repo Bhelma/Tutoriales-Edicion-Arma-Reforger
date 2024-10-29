@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: "Edicion Bhelma"
-description: "Turoriales de Edicion en Arma Reforger"
+description: "Tutoriales de Edicion en Arma Reforger"
 baseurl: ""  # Deja vacío si estás usando el repositorio principal.
 url: "https://bhelma.github.io/Tutoriales-Edicion-Arma-Reforger/"  # Cambia "tusitio" por tu nombre de usuario.
 show_title: true               # Muestra el título del sitio
