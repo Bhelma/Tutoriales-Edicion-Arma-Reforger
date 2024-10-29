@@ -82,3 +82,7 @@ Con estos datos ya tendrias el item añadido correctamente y aparecera perfectam
 
 Facil!!??, pues cualquier duda o correccion puedes indicarmelo [aqui](https://github.com/Bhelma/Tutoriales-Edicion-Arma-Reforger/issues)
 
+---
+
+© 2024 Edicion Bhelma. Todos los derechos reservados.
+
