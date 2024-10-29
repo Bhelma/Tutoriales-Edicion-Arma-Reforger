@@ -1,15 +1,8 @@
-theme: jekyll-theme-cayman
-title: "Edicion Bhelma"
-description: "Tutoriales de Edicion en Arma Reforger"
-baseurl: ""  # Deja vacío si estás usando el repositorio principal.
-url: "https://bhelma.github.io/Tutoriales-Edicion-Arma-Reforger/"  # Cambia "tusitio" por tu nombre de usuario.
-show_title: true               # Muestra el título del sitio
-# logo: "/ruta/a/logo.png"       # Ruta al logo si prefieres usar un logo en lugar del título
-header_pages:
-  - index.md                   # Página de inicio
-  - about.md                   # Página "Acerca de"
-  - contact.md                 # Página "Contacto"
-social_links:
-  twitter: "https://twitter.com/tuusuario"
-  github: "https://github.com/tuusuario"
-  # linkedin: "https://linkedin.com/in/tuusuario"
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+gem "github-pages", group: :jekyll_plugins
+
+title: [Edicion Bhelma]
+description: [Tutoriales de Edicion en ArmaReforger]
