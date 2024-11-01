@@ -20,7 +20,7 @@ Este proyecto está enfocado en **crear tutoriales de edición de misiones para 
 
 ## Contáctanos
 
-Para cualquier duda o comentario, puedes encontrarnos en Discordd.
+Para cualquier duda o comentario, puedes encontrarnos en [Discordd](https://discord.gg/4kUnUDSF).
 
 ---
 
