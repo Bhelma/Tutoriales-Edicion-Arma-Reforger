@@ -28,6 +28,7 @@ Aquí tienes una lista de tutoriales organizados por secciones para ayudarte a e
     - [Personalización de Unidades Aliadas](./tutoriales/intermedio/unidades-aliadas.md)
 - [Creación de Zonas de Objetivos](./tutoriales/intermedio/zonas-de-objetivos.md)-->
 - [Crear Arsenal Personalizado](./Tutoriales/xx_Crear-un-arsenal-personalizado.md)
+- [Limitar el uso de recursos al GM](./Tutoriales/Limitar_uso_GM.md)
 
 <!--## Tutoriales Avanzados
 
