@@ -29,4 +29,21 @@ Poniendo el cursor del raton de nuevo encima del nuevo archivo creado, pinchamos
 Se nos abrira el archivo, donde se podra configurar cualquier detalle del Game Master.
 Nosotros nos vamos a fijar en el complemento "SCR_BudgetEditorComponent" del listado de la derecha, vease la siguiente imagen.
 
+![Imagen GM Limitado](https://i.imgur.com/PnzhJbF.png)
+
+### Paso 4
+Basandonos en la imagen anterior, podemos ver que en la marca roja de abajo, estan los "presupuestos" de cada apartado disponible que tiene el GM cuando entra en una mision, me refiero a vehiculos, grupos, sistemas, componentes, etc...
+
+Dejando en valor 0, cualquiera de las opciones que no deseemos que tenga el GM acceso, automaticamente cada vez que el GM entre en su panel, le saldran oscurecidas esos apartados.
+
+En la imagen anterior que tienen a 0 todos los valores, automaticamente el GM no tiene acceso a ningun recurso.
+
+### Paso 5
+Una vez tengamos modificados los valores que deseemos, ya podemos darle a guardar.
+
+
+## Aclaraciones
+Hay que tener en cuenta que esto llimita y sin posibilidad de volver de otra forma al GM de todos los recursos marcados a 0, es decir, desde la mision no se puede volver este valor al valor original, asi que para devolver este valor al original implica tener que abrir de nuevo la mision, modificarlo y volver a subir la mision al workshop.
+Tambien es util, por si no deseas que te añadan minas en mitad de la mision, o mas AIs o blindados cuando tu como creador no lo quieres asi.
+
 
